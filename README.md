@@ -1,1 +1,1 @@
-# JICQS - JSON Indexed Cache with Query System
+# JICQS - JSON Indexed Cache with Query
